@@ -3,7 +3,7 @@ description: A place for all the Kubernetes resources which don't already have a
 name: raw
 version: v0.2.5
 kubeVersion: ">=1.16.0-0"
-home: https://github.com/itscontained/charts/blob/master/itscontained/raw
+home: https://github.com/simplylizz/raw-chart/blob/main/raw
 keywords:
   - raw
   - incubator
@@ -11,5 +11,4 @@ keywords:
 sources:
   - https://github.com/helm/charts/blob/master/incubator/raw
 maintainers:
-  - name: DirtyCajunRice
-    email: nick@cajun.pro
+  - name: simplylizz
