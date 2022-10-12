@@ -9,6 +9,6 @@ keywords:
   - incubator
   - incubator-raw
 sources:
-  - https://github.com/helm/charts/blob/master/incubator/raw
+  - https://github.com/helm/charts/blob/main/incubator/raw
 maintainers:
   - name: simplylizz
