@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  raw:
+  - apiVersion: v2
+    created: "2022-10-12T14:33:39.070954+02:00"
+    description: A place for all the Kubernetes resources which don't already have
+      a home
+    digest: 227899ccb4dab4657ce9126c91079d407dcb8343be5d5aaa48a09cfddd62ce78
+    home: https://github.com/simplylizz/raw-chart/blob/main/raw
+    keywords:
+    - raw
+    - incubator
+    - incubator-raw
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - name: simplylizz
+    name: raw
+    sources:
+    - https://github.com/helm/charts/blob/master/incubator/raw
+    urls:
+    - https://simplylizz.github.io/raw-chart/raw-v0.2.5.tgz
+    version: v0.2.5
+generated: "2022-10-12T14:33:39.07047+02:00"
